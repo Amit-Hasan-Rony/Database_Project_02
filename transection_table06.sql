@@ -1,0 +1,9 @@
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(1,1,'shart',2,400);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(2,1,'shart',1,400);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(3,2,'pant',4,500);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(4,3,'sharee',3,1200);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(5,4,'three_pieces',2,1000);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(6,3,'sharee',1,1200);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(7,4,'three_pieces',2,1000);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(8,5,'t_shart',1,150);
+insert into trancection_table(transection_id,item_id,item_name,quantity,selling_price)values(9,5,'t_shart',5,150);
